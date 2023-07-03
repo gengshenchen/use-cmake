@@ -1,0 +1,4 @@
+/opt/demo6/lib/libmathkarl.so
+/opt/demo6/include/math.h
+/opt/demo6/bin/demo
+/opt/demo6/include/config.h

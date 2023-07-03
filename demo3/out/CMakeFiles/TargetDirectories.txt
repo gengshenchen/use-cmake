@@ -1,0 +1,6 @@
+/home/ubuntu/work/cmake/demo3/out/CMakeFiles/demo.dir
+/home/ubuntu/work/cmake/demo3/out/CMakeFiles/edit_cache.dir
+/home/ubuntu/work/cmake/demo3/out/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/work/cmake/demo3/out/math/CMakeFiles/mathkarl.dir
+/home/ubuntu/work/cmake/demo3/out/math/CMakeFiles/edit_cache.dir
+/home/ubuntu/work/cmake/demo3/out/math/CMakeFiles/rebuild_cache.dir

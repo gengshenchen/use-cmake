@@ -1,0 +1,25 @@
++ umask 022
++ cd /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/BUILD
++ mv /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/tmpBBroot
++ RPM_EC=0
++ jobs -p
++ exit 0
++ umask 022
++ cd /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/BUILD
++ /bin/rm -rf /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux
++ /bin/mkdir -p /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM
++ /bin/mkdir /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux
++ [ -e /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux ]
++ rm -rf /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux
++ mv /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/tmpBBroot /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/demo6-installer-3.8.6-Linux
++ /usr/lib/rpm/brp-compress /usr
++ /usr/lib/rpm/brp-elfperms
++ /usr/lib/rpm/brp-strip /usr/bin/strip
++ /usr/lib/rpm/brp-strip-static-archive /usr/bin/strip
++ /usr/lib/rpm/brp-strip-comment-note /usr/bin/strip /usr/bin/objdump
++ /usr/lib/rpm/brp-remove-la-files
++ umask 022
++ cd /home/ubuntu/work/cmake/demo6/out/_CPack_Packages/Linux/RPM/BUILD
++ RPM_EC=0
++ jobs -p
++ exit 0

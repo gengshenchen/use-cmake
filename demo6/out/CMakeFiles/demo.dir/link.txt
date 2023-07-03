@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -Wall CMakeFiles/demo.dir/main.cc.o -o demo  -Wl,-rpath,/home/ubuntu/work/cmake/demo6/out/math: math/libmathkarl.so 

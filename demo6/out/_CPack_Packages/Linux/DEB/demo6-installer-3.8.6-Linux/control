@@ -1,0 +1,10 @@
+Architecture: amd64
+Depends: uuid-dev
+Description: demo6 built using CMake
+Maintainer: robertodr
+Package: demo6-installer
+Priority: optional
+Section: devel
+Version: 3.8.6
+Installed-Size: 52
+

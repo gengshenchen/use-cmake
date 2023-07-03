@@ -1,0 +1,4 @@
+/usr/local/bin/demo
+/usr/local/include/config.h
+/usr/local/bin/libmathkarl.so
+/usr/local/include/math.h
