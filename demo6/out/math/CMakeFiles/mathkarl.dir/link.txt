@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC  -O3 -Wall -shared -Wl,-soname,libmathkarl.so -o libmathkarl.so CMakeFiles/mathkarl.dir/math.cc.o  -Wl,-rpath,:::::::::::::: 

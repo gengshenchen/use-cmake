@@ -1,3 +1,0 @@
-/home/ubuntu/work/cmake/CMakeFiles/Demo.dir
-/home/ubuntu/work/cmake/CMakeFiles/edit_cache.dir
-/home/ubuntu/work/cmake/CMakeFiles/rebuild_cache.dir
