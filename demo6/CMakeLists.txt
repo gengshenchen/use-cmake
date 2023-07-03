@@ -19,7 +19,9 @@ set (CMAKE_INCLUDE_CURRENT_DIR ON)
 
 set (CMAKE_INSTALL_PREFIX "/opt/${PROJECT_NAME}")
 set (path_to_search  "/opt/${PROJECT_NAME}/lib")
-#设置 rpath，make install，不过pack还是有问题。
+#设置 rpath，make install ,（install 部分就是cpack打包的文件或目录）
+# out目录下：cmake --build . --target package
+# cmake --build . --target package_source
 set(CMAKE_SKIP_BUILD_RPATH FALSE)
 set(CMAKE_BUILD_WITH_INSTALL_RPATH FALSE)
 set(CMAKE_INSTALL_RPATH ${path_to_search})
